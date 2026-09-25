@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/blockchain-banner.svg" width="100%" alt="Achmad Syahril Fauzi - Blockchain & Cryptocurrency Web3 Header" />
+<img src="https://raw.githubusercontent.com/DevLabsss/DevLabsss/main/assets/blockchain-banner.svg" width="100%" alt="Achmad Syahril Fauzi - Blockchain & Cryptocurrency Web3 Header" />
 
 <br/>
 
@@ -67,9 +67,10 @@ Mahasiswa Teknik Informatika di Universitas Pamulang yang fokus membangun aplika
 
 <div align="center">
 
-<img height="170" alt="stats" src="https://github-stats-extended.vercel.app/api?username=DevLabsss&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" alt="top langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DevLabsss&layout=compact&theme=tokyonight&hide_border=true" />
-<br/>
+<img src="https://raw.githubusercontent.com/DevLabsss/DevLabsss/main/assets/blockchain-stats.svg" width="100%" alt="DevLabsss On-Chain & GitHub Telemetry" />
+
+<br/><br/>
+
 <img alt="streak" src="https://streak-stats.demolab.com/?user=DevLabsss&theme=tokyonight&hide_border=true" />
 
 </div>
