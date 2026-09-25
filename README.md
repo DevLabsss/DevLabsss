@@ -17,13 +17,15 @@
 
 ---
 
-## // About
+<div align="center">
 
-Mahasiswa Teknik Informatika di Universitas Pamulang yang fokus membangun aplikasi web modern dan mengeksplorasi ekosistem blockchain. Saya percaya pada kode yang bersih, arsitektur yang jelas, dan eksperimen yang terus berjalan.
+<img src="https://raw.githubusercontent.com/DevLabsss/DevLabsss/main/assets/about-card.svg" width="100%" alt="About Achmad Syahril Fauzi" />
+
+</div>
 
 ---
 
-## // Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -38,7 +40,7 @@ Mahasiswa Teknik Informatika di Universitas Pamulang yang fokus membangun aplika
 
 ---
 
-## // Featured Projects
+### 🚀 Featured Projects
 
 <div align="center">
 
@@ -58,7 +60,7 @@ Mahasiswa Teknik Informatika di Universitas Pamulang yang fokus membangun aplika
 
 ---
 
-## // Web3 Journey
+### 🌐 Web3 Journey
 
 - ⚡ **2023** ──── ![Initia](https://img.shields.io/badge/Initia_Labs-Testnet_Coordinator-38bdf8?style=flat-square)
 - 🌐 **2024** ──── ![Elys](https://img.shields.io/badge/Elys_Network-Testnet_Coordinator_%26_Community-a855f7?style=flat-square)
@@ -67,7 +69,7 @@ Mahasiswa Teknik Informatika di Universitas Pamulang yang fokus membangun aplika
 
 ---
 
-## // Stats & Telemetry
+### 📊 Activity & Telemetry
 
 <div align="center">
 
@@ -81,7 +83,7 @@ Mahasiswa Teknik Informatika di Universitas Pamulang yang fokus membangun aplika
 
 ---
 
-## // Contact & Socials
+### 📬 Connect With Me
 
 <div align="center">
 
