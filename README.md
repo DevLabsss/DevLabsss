@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,100:111827&height=200&section=header" width="100%" alt="header" />
+<img src="./assets/blockchain-banner.svg" width="100%" alt="Achmad Syahril Fauzi - Blockchain & Cryptocurrency Web3 Header" />
 
-<h1>Achmad Syahril Fauzi</h1>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4DA2FF&center=true&vCenter=true&width=700&lines=%3E+Building+on+Sui%2C+one+testnet+at+a+time;%3E+Full-stack+web+developer;%3E+Shipping+code+%2B+on-chain+experiments" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4DA2FF&center=true&vCenter=true&width=700&lines=%3E+Building+on+Sui%2C+one+testnet+at+a+time;%3E+Full-stack+web+developer;%3E+Shipping+code+%2B+on-chain+experiments;%3E+Exploring+Web3+%26+Decentralized+Systems" alt="typing" />
 
 <br/>
 
@@ -17,13 +17,15 @@
 
 ---
 
-┌─────────────────────────────────────────────┐
-│ STATUS ● ONLINE │
-│ LOCATION Tangerang, Indonesia │
-│ ROLE Informatics Engineering Student │
-│ FOCUS Web Dev · Web3 · Sui Ecosystem │
-│ NETWORK Sui Testnet │
-└─────────────────────────────────────────────┘
+```text
+┌─────────────────────────────────────────────────────────────┐
+│ STATUS    ● ONLINE                                          │
+│ LOCATION  Tangerang, Indonesia                              │
+│ ROLE      Informatics Engineering Student                   │
+│ FOCUS     Web Dev · Web3 · Sui Ecosystem                    │
+│ NETWORK   Sui Testnet · Devnet                              │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ## // About
 
@@ -51,27 +53,29 @@ Mahasiswa Teknik Informatika di Universitas Pamulang yang fokus membangun aplika
 
 ## // Web3 Journey
 
-[2023] ──── Initia Labs ── Testnet Coordinator
-│
-[2024] ──── Elys Network ── Testnet Coordinator & Community
-│
-[2024] ──── Union Labs ── Community & Testnet
-│
-[2025] ──── Build on Sui ── BlockDevId learning session
+```text
+[2023] ──── Initia Labs ──── Testnet Coordinator
+  │
+[2024] ──── Elys Network ─── Testnet Coordinator & Community
+  │
+[2024] ──── Union Labs ───── Community & Testnet
+  │
+[2025] ──── Build on Sui ─── BlockDevId learning session
+```
 
 ## // Stats
 
 <div align="center">
 
-<img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=DevLabsss&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLabsss&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" alt="stats" src="https://github-stats-extended.vercel.app/api?username=DevLabsss&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" alt="top langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DevLabsss&layout=compact&theme=tokyonight&hide_border=true" />
 <br/>
-<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevLabsss&theme=tokyonight&hide_border=true" />
+<img alt="streak" src="https://streak-stats.demolab.com/?user=DevLabsss&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ## // Contact
 
-email syahrilfauzi17@gmail.com
-linkedin linkedin.com/in/achmadsyahrilfauzi
-portfolio achmad-syahril-fauzi.vercel.app
+- 📧 **Email:** [syahrilfauzi17@gmail.com](mailto:syahrilfauzi17@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/achmadsyahrilfauzi](https://linkedin.com/in/achmadsyahrilfauzi)
+- 🌐 **Portfolio:** [achmad-syahril-fauzi.vercel.app](https://achmad-syahril-fauzi.vercel.app)
